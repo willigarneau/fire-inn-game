@@ -8,7 +8,7 @@
    ## Context
 A few weeks ago, me and 7 of my friends went to a video game design competition. Being 7 low-level programmers, we tried to create a concept that would be out of the ordinary to overcome our lack of knowledge in modeling. Here is the result of 40 hours of hard work.
 
-> The theme determines the environment around which we have to design our game. In the case of the January competition, the theme was **an hostel**.
+> The theme determines the environment around which we have to design our game. In the case of the Valleyfield competition, the theme was **an hostel**.
 
 <img width="1278" alt="capture d ecran 2019-02-03 a 20 59 23" src="https://user-images.githubusercontent.com/33030290/52186733-299bea00-27f7-11e9-86d1-f89bc49e6a93.png">
 
