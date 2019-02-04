@@ -43,3 +43,7 @@ Once you have brought the 4 crates of beer on time to our innkeeper, you will re
 | Mouse Move | Look around you |
 | 'f' | Pick/Drop the torch |
 | 'e' | Interact with object |
+
+## Contributors
+
+This game has been made by : Isaac Fiset, Pascal Canuel, Léo Bélanger, Charles Gourde, Justin Roberge-Lavoie, Esteban Chouinard, Thomas Leclerc and William Garneau(me).
