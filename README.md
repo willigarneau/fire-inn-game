@@ -31,3 +31,15 @@ You will notice at the top left of your screen that there are `4 bottles`. Every
 <img width="1277" alt="capture d ecran 2019-02-03 a 20 59 59" src="https://user-images.githubusercontent.com/33030290/52186721-19840a80-27f7-11e9-9bd0-f9658ebecbb6.png">
 
 Once you have brought the 4 crates of beer on time to our innkeeper, you will receive congratulations from him.
+
+## Controls 
+
+| Input   |  Description |
+|:----------:|:------:|
+| 'w' | Move forward in the environment |
+| 'a' | Move backward in the environment |
+| 's' | Move left in the environment |
+| 'd' | Move right in the environment |
+| Mouse Move | Look around you |
+| 'f' | Pick/Drop the torch |
+| 'e' | Interact with object |
